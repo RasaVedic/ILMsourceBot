@@ -3,5 +3,8 @@
 config.json
 
 # Ignore folders
-data/meme/
+data/memes/
 data/reference/
+# others
+data/warnings.json
+
