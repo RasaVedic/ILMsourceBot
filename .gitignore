@@ -1,1 +1,7 @@
+#config.json
+# Ignore config.json
 config.json
+
+# Ignore folders
+data/meme/
+data/reference/
