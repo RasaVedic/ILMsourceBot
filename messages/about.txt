@@ -1,0 +1,31 @@
+ILMsourceBot - About
+
+Ye bot gyaan, anushasan aur manoranjan tino ka mel hai.  
+Iska nirman kiya gaya hai 👉 **@RASAVEDIC** 👈 dwara,  
+jo ek Learner, CNC Operator aur Coding Enthusiast hain. 🙌
+
+🔹 Commands:
+   • /start    → Bot start karne ke liye aur welcome message dekhne ke liye  
+   • /help     → Saare commands aur unka description dekhne ke liye  
+   • /about    → Bot ki jankari aur purpose ke liye  
+   • /topic    → Available topics ki list dekhne aur content padhne ke liye  
+   • /alert    → Admins ko problem ya alert bhejne ke liye  
+   • /meme     → Daily fun memes ke liye  
+   • /warn     → (Auto) gaali-galoch ya spam karne wale user ko warning dene ke liye  
+
+🔹 Auto Features:
+   • Bad-word filter: Gaali/abuse karne wale messages auto-delete + warning count  
+   • Warnings System: 3 warnings ke baad group se remove kiya jayega  
+   • Private Abuse: 3 warnings ke baad 24 ghante mute/ban  
+   • Daily Memes: Subah aur shaam fun ka injection  
+   • Admin Alerts: Bot kisi error par turant admin ko report karega  
+
+🔹 Uddeshya:
+Ye bot mainly educational content, reference material aur group me discipline maintain karne ke liye banaya gaya hai.  
+Saath hi thoda light fun bhi included hai.  
+
+👨‍💻 Maker’s Note (RASA VEDIC):  
+"Is bot ko banane ka mera maksad simple tha → knowledge sab tak pohche,  
+group safe rahe, aur thoda hasi-mazaak bhi chalta rahe."  
+
+📌 Kisi bhi problem ya suggestion ke liye /alert ka use karein.

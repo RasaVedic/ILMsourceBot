@@ -1,0 +1,11 @@
+[Hindi]  
+⚠️ चेतावनी {username} ⚠️  
+कृपया इस बॉट का इस्तेमाल जिम्मेदारी, अदब और सलीके के साथ करें।  
+गाली-गलौज, स्पैम, गलत या अपमानजनक मैसेज भेजना सख़्त मना है।  
+ऐसा करने पर आपको block या report किया जा सकता है।  
+
+[English]  
+⚠️ Warning {username} ⚠️  
+Please use this bot responsibly, respectfully, and with proper manners.  
+Spamming, abusive language, or offensive/false messages are strictly prohibited.  
+Such behavior may result in your access being blocked or reported.

@@ -1,0 +1,24 @@
+🌸 Namaste & Welcome to /@ILMsourceBot 🌸  
+
+🤖 Ye bot aapko knowledge aur resources (texts, images, PDFs, memes) easily access karne me help karega.  
+
+✨ Kaise use karein:  
+- /start → Bot ka welcome aur basic info.  
+- /help → Saare commands ki list aur unka use.  
+- /about → Bot ke baare me short intro.  
+- /topic → Available topics ki list. Aap topic choose karke usme files dekh sakte ho.  
+- /getfile <topicname> <filename> → Direct topic aur filename se file mangwa lo.  
+   (Example: `/getfile Hello Hello1.txt/jpeg`)  
+- /meme → Random meme (thoda fun bhi zaruri hai 😅).  
+- /alert <problem> → Admin ko apni problem report karne ke liye.  
+   (Example: `/alert File open nahi ho rahi hai`)  
+- /warn → Warning system (sirf admins ke liye).  
+- /admin → Ye system (sirf admins ke liye).
+📂 Topics Navigation:  
+1. /start , /meme , likho → bot available topics dikhayega.  
+2. Kisi topic pe click karo → usme jo files hain wo dikhengi.  
+3. File choose karo → text/image/pdf turant mil jayega.  
+4. /@ILMsourceBot Kuchh search likhein or quairy likhein.
+ 
+🙏 Aasha hai yeh safar aapke liye upyogi aur sukhad hoga.  
+🌟 Happy Learning & Sharing! 🌟

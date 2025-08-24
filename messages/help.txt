@@ -1,0 +1,65 @@
+👋 Welcome to ILMsourceBot – Aapka Knowledge Assistant 📚
+
+Yahan pe aapko bot ke main features aur commands milenge:
+
+─────────────────────────────
+📌 GENERAL COMMANDS
+─────────────────────────────
+/start         – Bot ko start karne ke liye aur welcome message dekhne ke liye
+/help          – Ye help message dikhata hai aur saari available commands bataata hai
+/about         – Bot ke baare me information, purpose aur team ke liye
+/admin         – Ye command sirf admin ke liye hai
+/admin_menu    – Admin menu options ke liye
+/restartbot    – Bot ko restart karne ke liye
+/stopbot       – Bot ko stop karne ke liye
+/topic         – Available topics dekhne ke liye
+/meme          – Random meme ke liye (fun ke liye)
+
+/─────────────────────────────
+📌 FILE & REFERENCE COMMANDS
+─────────────────────────────
+/getfile <topic> <filename>
+→ Example: `/getfile vedas rigveda.txt`
+Ye command aapko specific file knowledge database se fetch karke deta hai
+
+─────────────────────────────
+📌 ALERT & REPORT
+─────────────────────────────
+/alert <aapka message>
+→ Example: `/alert File sahi se load nahi ho raha`
+Ye command aapka message ya problem admin ko directly bhejta hai
+
+─────────────────────────────
+📌 MODERATION (Auto System 🚨)
+─────────────────────────────
+/resetwarn     – Warnings reset karne ke liye
+/setduration   – Duration set karne ke liye
+/setlimit      – Limit set karne ke liye
+/warn          – User ko warn karne ke liye
+/warnings      – Users ki warnings check karne ke liye
+
+⚠️ Warning System:
+- Agar abusive language (badwords/emojis) use karoge, bot message delete karke warning dega
+- 3 warnings ke baad aap mute ya ban ho sakte ho (chat type ke hisaab se)
+- Warnings 24 hours ke baad automatically reset ho jati hai
+
+👥 Groups me:
+- Abusive messages instantly delete ho jaate hain
+- 3 warnings ke baad aap group se remove ho sakte ho
+
+💬 Private Chat me:
+- 3 warnings ke baad aap 24 hours ke liye mute ya block ho sakte ho
+
+─────────────────────────────
+📌 EXTRA FEATURES
+─────────────────────────────
+✅ Daily Memes – Bot morning & evening group me memes bhejta hai
+✅ Topic-based study material – Sab structured aur organized hai
+✅ Inline Search – `@YourBotName query` type karke Telegram me instantly references search karo
+✅ Admin Panel – Sirf admin ke liye special features (content add, topics manage etc.)
+
+─────────────────────────────
+ℹ️ NOTE
+─────────────────────────────
+❌ Abusive words, spamming ya unnecessary commands avoid karein
+💡 Ye bot study content, fun aur safe respectful environment provide karta hai

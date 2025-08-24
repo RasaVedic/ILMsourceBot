@@ -1,0 +1,11 @@
+[Hindi]  
+🚨 एडमिन अलर्ट 🚨  
+@{username} को डेटा भेजने में समस्या आई है।  
+Error detail: {error}  
+कृपया तुरंत लॉग चेक करें और ज़रूरी कार्रवाई करें।  
+
+[English]  
+🚨 Admin Alert 🚨  
+There was a problem sending data to @{username}.  
+Error detail: {error}  
+Please check the logs immediately and take the required action.

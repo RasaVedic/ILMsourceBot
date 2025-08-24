@@ -1,0 +1,26 @@
+Available Admin Commands:
+/admin - Enter admin mode
+/exit - Exit admin mode
+/admin_help - Show this help menu
+
+Topic Management:
+/add_topic
+/remove_topic
+/edit_topic
+/list_topics
+
+Content Management:
+/add_content
+/remove_content
+/edit_content
+/list_content
+
+Meme Management:
+/add_meme
+/remove_meme
+/list_memes
+
+Banlist:
+/show_banlist
+/ban_user
+/unban_user
